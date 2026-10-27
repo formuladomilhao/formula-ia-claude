@@ -1,0 +1,14 @@
+{
+  "name": "formula-ia",
+  "description": "Plugin oficial da Fórmula IA para Claude: conector MCP e skills de CRM e atendimento.",
+  "owner": {
+    "name": "Fórmula IA"
+  },
+  "plugins": [
+    {
+      "name": "formula-ia",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

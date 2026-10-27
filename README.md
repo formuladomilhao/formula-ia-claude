@@ -25,7 +25,8 @@ Funciona no claude.ai, no Claude Desktop, no Cowork e no Claude Code.
 - **Claude Code**:
 
 ```
-/plugin install formula-ia --marketplace formuladomilhao/formula-ia-claude
+/plugin marketplace add formuladomilhao/formula-ia-claude
+/plugin install formula-ia@formula-ia
 ```
 
 ## Como conectar

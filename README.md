@@ -47,7 +47,7 @@ As consultas são marcadas como somente leitura e rodam sem pedir confirmação.
 - O plugin não guarda dados no seu computador nem chama outros serviços. Todas as chamadas vão para o servidor da Fórmula IA em `mcp.formulaia.ai`, que consulta a API da sua conta na plataforma Fórmula IA.
 - As respostas trazem para a conversa dados do seu CRM: nomes, telefones, e-mails e campos de contatos, mensagens e notas de atendimentos, usuários da equipe, oportunidades, agenda e indicadores.
 - No primeiro login com e-mail e senha, o servidor cria na sua empresa uma API chamada "MCP Fórmula IA" (ou reaproveita a que já existe) e guarda o token dela cifrado. A senha do administrador só confere o login e não é guardada.
-- Política de privacidade: em preparação; o link entra aqui assim que for publicado.
+- [Política de privacidade](https://formulaia.ai/privacidade/) e [Termos de serviço e uso](https://formulaia.ai/termos/) da Fórmula IA.
 
 ## Suporte
 

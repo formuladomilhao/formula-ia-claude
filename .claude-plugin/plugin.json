@@ -1,12 +1,20 @@
 {
   "name": "formula-ia",
   "displayName": "Fórmula IA",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CRM e atendimento omnichannel da Fórmula IA no Claude: consulte funis, oportunidades, contatos, atendimentos, canais, indicadores, agenda e tarefas da sua empresa conversando.",
   "author": {
     "name": "Fórmula IA"
   },
   "license": "MIT",
-  "keywords": ["crm", "atendimento", "omnichannel", "whatsapp", "funil-de-vendas", "formula-ia"],
+  "privacyPolicyUrl": "https://formulaia.ai/privacidade/",
+  "keywords": [
+    "crm",
+    "atendimento",
+    "omnichannel",
+    "whatsapp",
+    "funil-de-vendas",
+    "formula-ia"
+  ],
   "icon": "./assets/icone.png"
 }
